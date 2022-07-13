@@ -1,4 +1,7 @@
-<h3 align="center">Full stack developer ⚡ (Medellín-Colombia)🌎</h3>
+<img align="center" src='./assets/FULL STACK DEVELOPER.png/' alt="banner" height="325" width="850"/>
+
+<h1 align="center">Hola 🙋‍♂️, soy Leandro!</h1>
+<h2 align="center">Full stack developer ⚡ (Medellín-Colombia)🌎</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobc04&label=Profile%20views&color=0e75b6&style=flat" alt="leobc04" /> </p>
 
