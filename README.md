@@ -29,7 +29,7 @@
 
 <h2>🎮 Box-Games:<h3>
 
-<p>Este proyecto es una single page application (SPA) con tematica de videojuegos, donde los usuarios pueden ver información relacionada con cinetos de videojuegos, algunas de las funcionalidades son: </p>
+<p>Este proyecto es una single page application (SPA) con temática de videojuegos, donde los usuarios pueden ver información relacionada con cientos de videojuegos, algunas de las funcionalidades son: </p>
 
 <ul>
   <li>Buscar videojuegos por nombre.</li>
