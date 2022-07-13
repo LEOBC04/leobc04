@@ -1,20 +1,71 @@
-<img align="center" src='./assets/FULL STACK DEVELOPER.png/' alt="banner" height="325" width="850"/>
+<img align="center" src='./assets/banner/FULL STACK DEVELOPER.png' alt="banner" height="325" width="850"/>
 
 <h1 align="center">Hola 🙋‍♂️, soy Leandro!</h1>
 <h2 align="center">Full stack developer ⚡ (Medellín-Colombia)🌎</h2>
+<br/>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leobc04&label=Profile%20views&color=0e75b6&style=flat" alt="leobc04" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/leandrobc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/leandrobc" height="30" width="40" /></a>
-</p>
+<h3 align="left">💡 Habilidades:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Sass</li>
+  <li>React</li>
+  <li>Redux toolkit</li>
+  <li>Node JS</li>
+  <li>Express</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>Git</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leobc04&show_icons=true&locale=en&layout=compact" alt="leobc04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leobc04&show_icons=true&locale=en" alt="leobc04" /></p>
+<h2>📁 Mis proyectos</h2>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leobc04&" alt="leobc04" /></p>
+<h2>🎮 Box-Games:<h3>
+
+<p>Este proyecto es una single page application (SPA) con tematica de videojuegos, donde los usuarios pueden ver información relacionada con cinetos de videojuegos, algunas de las funcionalidades son: </p>
+
+<ul>
+  <li>Buscar videojuegos por nombre.</li>
+  <li>Agregar/eliminar juegos a favoritos.</li>
+  <li>Ver el detalle de cada videojuego. </li>
+  <li>Ordenar videojuegos por nombre y rating. </li>
+  <li>Filtrar videojuegos port tipo y género. </li>
+  <li>Crear videojuegos</li>
+</ul>
+<br/>
+
+<img src='./assets/BOX-GAMES/landingPage.PNG' alt="landingPage" width="45%" height="45%" />
+<img src='./assets/BOX-GAMES/home.PNG' alt="home" width="45%" height="45%" />
+<img src='./assets/BOX-GAMES/home1.PNG' alt="home1" width="45%" height="45%" />
+<img src='./assets/BOX-GAMES/favorites.PNG' alt="favorites" width="45%" height="45%" />
+<img src='./assets/BOX-GAMES/detail.PNG' alt="detail" width="45%" height="45%"/>
+<img src='./assets/BOX-GAMES/form.PNG' alt="form" width="45%" height="45%" />
+
+<br/>
+
+<h3>💻 Tecnologías usadas: </h3><p>HTML-CSS-JavaScript-React-Redux toolkit-SASS-Node JS-Express-PostgreSQL-Sequelize</p>
+<br/>
+
+<h3>Repositorio:</h3>
+
+<a href="https://github.com/LEOBC04/BOX-GAMES.git"><img src='./assets/icons/signo-de-github.png' width=5% height=5%/></a>
+
+---
+<br/>
+
+<h2>📪 Contáctame:<h2/>
+<br/>
+<ul>
+  <li><img src='./assets/icons/signo-de-github.png' width=3%/> <a href="https://github.com/LEOBC04">https://github.com/LEOBC04</a></li>
+  <li><img src='./assets/icons/linkedin.png' width=3%/> <a href="https://www.linkedin.com/in/leandrobc/">www.linkedin.com/in/leandrobc</a></li>
+  <li><img src='./assets/icons/google.png' width=3%/> <a href="lbuitragoc04@gmail.com">lbuitragoc04@gmail.com</a></li>
+</ul>
+
+
